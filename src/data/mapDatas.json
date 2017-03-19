@@ -1,0 +1,35 @@
+[
+  {
+    "id":"1",
+    "mapName": "map_1.jpg",
+    "title": "全球矢量地图服务",
+    "provideUnit":"国家基础地理信息中心",
+    "releaseTime":"2010-10-21",
+    "digest":"全球矢量底图服务"
+  },
+  {
+    "id":"2",
+    "mapName": "map_2.jpg",
+    "title": "全球影像地图服务",
+    "provideUnit":"国家基础地理信息中心",
+    "releaseTime":"2010-10-21",
+    "digest":"全球影像底图服务"
+  },
+  {
+    "id":"3",
+    "mapName": "map_3.jpg",
+    "title": "行政区划",
+    "provideUnit":"国家基础地理信息中心",
+    "releaseTime":"2010-10-21",
+    "digest":"全球矢量中文注记服务"
+  },
+  {
+    "id":"4",
+    "mapName": "map_4.jpg",
+    "title": "全球影像地图服务",
+    "provideUnit":"国家基础地理信息中心",
+    "releaseTime":"2010-11-21",
+    "digest":"全球影像地图服务"
+  }
+
+]

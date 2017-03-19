@@ -5,6 +5,7 @@ import React from 'react';
 import AddToDo from '../containers/AddTodo';
 import VisibleToDoList from '../containers/VisibleToDoList';
 import Footer from './Footer';
+import Botton from '../containers/Botton'
 
 // let yeomanImage = require('../images/yeoman.png');
 //获取图片相关的数据
@@ -157,6 +158,7 @@ const AppComponent = ()=>(
     <AddToDo />
     <VisibleToDoList />
     <Footer />
+    <Botton />
   </div>
 )
 
